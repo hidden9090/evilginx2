@@ -22,7 +22,8 @@ I am very much aware that Evilginx can be used for nefarious purposes. This work
 
 ## Evilginx Mastery Training Course
 
-If you want everything about reverse proxy phishing with **Evilginx** - check out my [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery) course!
+If you want everything about reverse proxy phishing with **Evilginx** - Connect with me in Telegram
+(https://t.me/hidden9090)
 
 <p align="center">
   <a href="https://academy.breakdev.org/evilginx-mastery"><img alt="Evilginx Mastery" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx_mastery.jpg" height="320" /></a>
@@ -35,10 +36,9 @@ https://academy.breakdev.org/evilginx-mastery
 
 ## Official Gophish integration
 
-If you'd like to use Gophish to send out phishing links compatible with Evilginx, please use the official Gophish integration with Evilginx 3.3.
-You can find the custom version here in the forked repository: [Gophish with Evilginx integration](https://github.com/kgretzky/gophish/)
 
-If you want to learn more about how to set it up, please follow the instructions in [this blog post](https://breakdev.org/evilginx-3-3-go-phish/)
+If you want to learn more about how to set it up, Connect with me in Telegram
+(https://t.me/hidden9090)
 
 ## Write-ups
 
