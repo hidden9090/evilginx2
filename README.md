@@ -42,34 +42,15 @@ If you want to learn more about how to set it up, please follow the instructions
 
 ## Write-ups
 
-If you want to learn more about reverse proxy phishing, I've published extensive blog posts about **Evilginx** here:
+If you want to learn more about reverse proxy phishing, Connect with me in Telegram
+(https://t.me/hidden9090)
 
-[Evilginx 2.0 - Release](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens)
-
-[Evilginx 2.1 - First Update](https://breakdev.org/evilginx-2-1-the-first-post-release-update/)
-
-[Evilginx 2.2 - Jolly Winter Update](https://breakdev.org/evilginx-2-2-jolly-winter-update/)
-
-[Evilginx 2.3 - Phisherman's Dream](https://breakdev.org/evilginx-2-3-phishermans-dream/)
-
-[Evilginx 2.4 - Gone Phishing](https://breakdev.org/evilginx-2-4-gone-phishing/)
-
-[Evilginx 3.0](https://breakdev.org/evilginx-3-0-evilginx-mastery/)
-
-[Evilginx 3.2](https://breakdev.org/evilginx-3-2/)
-
-[Evilginx 3.3](https://breakdev.org/evilginx-3-3-go-phish/)
 
 ## Help
 
-In case you want to learn how to install and use **Evilginx**, please refer to online documentation available at:
-
-https://help.evilginx.com
-
+In case you want to learn how to install and use **Evilginx**, 
+Connect with me in Telegram
+(https://t.me/hidden9090)
 ## Support
 
 I DO NOT offer support for providing or creating phishlets. I will also NOT help you with creation of your own phishlets. Please look for ready-to-use phishlets, provided by other people.
-
-## License
-
-**evilginx2** is made by Kuba Gretzky ([@mrgretzky](https://twitter.com/mrgretzky)) and it's released under BSD-3 license.
