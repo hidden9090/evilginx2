@@ -31,10 +31,7 @@ If you want everything about reverse proxy phishing with **Evilginx** - Connect 
 
 Learn everything about the latest methods of phishing, using reverse proxying to bypass Multi-Factor Authentication. Learn to think like an attacker, during your red team engagements, and become the master of phishing with Evilginx.
 
-Grab it here:
-https://academy.breakdev.org/evilginx-mastery
 
-## Official Gophish integration
 
 
 If you want to learn more about how to set it up, Connect with me in Telegram
