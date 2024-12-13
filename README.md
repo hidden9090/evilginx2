@@ -20,6 +20,11 @@ Present version is fully written in GO as a standalone application, which implem
 
 I am very much aware that Evilginx can be used for nefarious purposes. This work is merely a demonstration of what adept attackers can do. It is the defender's responsibility to take such attacks into consideration and find ways to protect their users against this type of phishing attacks. Evilginx should be used only in legitimate penetration testing assignments with written permission from to-be-phished parties.
 
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+
+
+
 ## Evilginx Mastery Training Course
 
 If you want everything about reverse proxy phishing with **Evilginx** - Connect with me in Telegram
