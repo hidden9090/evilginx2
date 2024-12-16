@@ -54,6 +54,8 @@ In case you want to learn how to install and use **Evilginx**,
 Connect with me in Telegram
 (https://t.me/hidden9090)
 
+https://t.me/+1tDzjSCGDDs0ODA9
+
 
 ## Support
 
